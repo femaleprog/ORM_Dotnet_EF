@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\initiation_RelationshipEF.props" />
+</Project>

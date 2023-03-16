@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\initiation_RelationshipEF.props" />
+</Project>
